@@ -8,13 +8,13 @@ In this project, machine learning techniques were used to predict daily sales fo
 
 The project includes:
 
-Data Cleaning & Preprocessing
-Exploratory Data Analysis (EDA)
-Feature Engineering
-Machine Learning Model Building
-Model Comparison
-Feature Importance Analysis
-Model Deployment Preparation
+1. Data Cleaning & Preprocessing
+2. Exploratory Data Analysis (EDA)
+3. Feature Engineering
+4. Machine Learning Model Building
+5. Model Comparison
+6. Feature Importance Analysis
+7. Model Deployment Preparation
 
 The final model successfully achieved approximately 89% prediction accuracy (R² Score) using the Random Forest Regressor.
 
@@ -23,12 +23,11 @@ The final model successfully achieved approximately 89% prediction accuracy (R²
 Rossmann operates thousands of retail stores, making manual sales forecasting difficult and inefficient.
 
 Incorrect sales forecasting may lead to:
-
-Overstocking
-Understocking
-Revenue loss
-Poor workforce planning
-Inefficient promotional strategies
+1. Overstocking
+2. Understocking
+3. Revenue loss
+4. Poor workforce planning
+5. Inefficient promotional strategies
 
 The goal of this project is to build a machine learning model capable of accurately forecasting future sales using historical sales data and business-related factors.
 
@@ -51,11 +50,11 @@ The project uses two datasets:
 1. Train Dataset
 Contains:
 
-Store sales
-Customer count
-Promotions
-Holidays
-Daily operational information
+(i)   Store sales
+(ii)  Customer count
+(iii) Promotions
+(iv)  Holidays
+(v)   Daily operational information
 
 2. Store Dataset
 Contains:
