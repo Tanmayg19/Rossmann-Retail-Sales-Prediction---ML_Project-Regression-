@@ -1,5 +1,10 @@
 # Rossmann-Retail-Sales-Prediction---ML_Project-Regression-
 Rossmann Retail Sales Prediction - Regression_Supervised_ML_Project
+<img width="640" height="360" alt="1_C6QjcwkJGUmw0sot8pd4Cw" src="https://github.com/user-attachments/assets/ec01fc31-ede3-4d37-8e73-2691391ed829" />
+
+
+
+
 🧠 Project Overview
 
 Retail businesses generate massive amounts of sales data every day. Accurately forecasting future sales is essential for effective inventory management, workforce planning, promotional strategy, and overall business growth.
